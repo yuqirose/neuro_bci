@@ -1,6 +1,6 @@
-# tensor_neuro
+# neuro_bci
 
-neuro electrophysiology data analysis with tensors
+neuro electrophysiology data analysis for brain computer interface
 
 ## prerequisites
 
